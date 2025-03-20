@@ -26,7 +26,7 @@ Primeiramente, criamos uma classe base chamada Veículo que representa as caract
 - modelo: Uma String que armazena o modelo do veículo.
 - cor: Uma String que armazena a cor do veículo.
 - velocidade: Um inteiro que armazena a velocidade atual do veículo.
-**Métodos**
+**Métodos:**
 - acelerar(int incremento): Um método que aumenta a velocidade do veículo em um determinado valor.
 - frear(int decremento): Um método que diminui a velocidade do veículo em um determinado valor.
 - exibirInformacoes(): Um método que imprime as informações do veículo, como modelo, cor e velocidade.
